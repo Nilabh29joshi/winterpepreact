@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/winterpepreact/static/css/main.e6c13ad2.css",
+    "main.js": "/winterpepreact/static/js/main.84226f89.js",
+    "static/js/453.25aa2a99.chunk.js": "/winterpepreact/static/js/453.25aa2a99.chunk.js",
+    "index.html": "/winterpepreact/index.html",
+    "main.e6c13ad2.css.map": "/winterpepreact/static/css/main.e6c13ad2.css.map",
+    "main.84226f89.js.map": "/winterpepreact/static/js/main.84226f89.js.map",
+    "453.25aa2a99.chunk.js.map": "/winterpepreact/static/js/453.25aa2a99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.84226f89.js"
+  ]
+}
